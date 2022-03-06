@@ -10,3 +10,5 @@
 ## Deliverable 2 is a line chart display that shows the "Total Fares (Weekly) by City Type" for the "Urban", "Suburban", and "Rural" city types.
   1.  The "Urban" city type has the highest "Total Fare by City Type" and the "Rural" city type has the lowest "Total Fare by City Type."
   2.  The "Suburban" city type has "Total Fare by City Type" values that fall between those of the "Urban" and "Rural" city types.
+
+## Deliverable 1 "Total Fares" and Deliverable 2 "Total Fare by City Type" show corresponding patterns.
