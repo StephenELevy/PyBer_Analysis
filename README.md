@@ -17,4 +17,6 @@
   2.  Determining the weekly or monthly "Average Total Expense per Driver" such as gas, oil changes, brakes, and depreciation would provide driver cost information.
   3.  Determine "Average Profit per Driver" to see if business model is sustainable. Then increase or decrease the number of drivers accordingly. 
 
-
+![screenshot Deliverable-1 table](/analysis/Multiple-CityType-metrics_table-display_Deliverable-1.png)
+![screenshot_Deliverable-2 line chart](/Total-weekly-fares-by-CityType_line-chart_Deliverable2.png)
+![screenshot_Deliverable-2 line chart](/PyBer_fare_summary.png)
