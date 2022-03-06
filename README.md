@@ -12,7 +12,7 @@
 
 ## Deliverable 1 "Total Fares" and Deliverable 2 "Total Fare by City Type" show corresponding patterns.
 
-## Recommendations"
+## Recommendations
   1.  Determining the weekly or monthly "Average Total Fares per Driver" would provide driver revenue information.
   2.  Determining the weekly or monthly "Average Total Expense per Driver" such as gas, oil changes, brakes, and depreciation would provide driver cost information.
   3.  Determine "Average Profit per Driver" to see if business model is sustainable. Then increase or decrease the number of drivers accordingly. 
